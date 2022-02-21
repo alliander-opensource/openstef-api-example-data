@@ -7,8 +7,8 @@ SPDX-License-Identifier: MPL-2.0
 
 There are a few ways to connect with the OpenSTF project:
 
-* _DM one of the most recent [Contributors](https://github.com/alliander-opensource/openstf/graphs/contributors)_
-* _submit an [issue](https://github.com/alliander-opensource/openstf/issues)_
+* _DM one of the most recent Contributors
+* _submit an issue
 
 ## How to Ask for Help
 
