@@ -19,20 +19,6 @@ information on using github issues.
 
 This project follows the following [Code of Conduct](https://github.com/Alliander/icarus-demand-live/blob/master/Code-of-conduct.md).
 
-## Style guide
-
-This project uses the PEP 8 Style Guide for Python Code. For all details about the various conventions please refer to:
-
-[PEP 8](https://www.python.org/dev/peps/pep-0008)
-
-Tip: Use autopep8 to automatically format your Python code to conform to the PEP 8 style guide.
-
-Furthermore the following conventions apply:
-
-* Maximum line length: 88 characters
-* Double quotes for strings, keys etc.
-    * Except when double quotes in the middle of a string are required.
-
 ## Git branching
 
 This project uses the [GitHub flow Workflow](https://guides.github.com/introduction/flow/) and branching model. The `main` branch always contains the latest release. New feature branches are branched from `main`. When a feature is finished it is merged back into `main` via a [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#:~:text=Pull%20requests%20let%20you%20tell,merged%20into%20the%20base%20branch.).
